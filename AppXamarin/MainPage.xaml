@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <!--display as a grid
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="1*" />
             <ColumnDefinition Width="2*" />
@@ -25,6 +26,6 @@
             <RowDefinition Height="2*" />
             <RowDefinition Height="1*" />
         </Grid.RowDefinitions>
-        <Border Background="Red" Grid.Column="5" Grid.Row="1"></Border>
+        <Border Background="Red" Grid.Column="5" Grid.Row="1"></Border>-->
     </Grid>
 </Page>
