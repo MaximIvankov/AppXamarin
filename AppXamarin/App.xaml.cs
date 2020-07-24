@@ -26,7 +26,7 @@ namespace AppXamarin
     {
         void Oleg()
         {
-            //For sent Git
+            //For sent Git 1
         }
         /// <summary>
         /// Initializes the singleton application object.  This is the first line of authored code
